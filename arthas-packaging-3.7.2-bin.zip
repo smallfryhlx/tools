@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>TOS</title>
+    <link rel="stylesheet" href="/static/js/outer/tcefe.react.min.css">
+    <!-- <script async="" src="//tosv.byted.org/obj/cloud-platform/cloud-jssdk.js"></script> -->
+    <link rel="icon" href="/static/image/favicon.ico" type="image/x-icon">
+  <link href="/static/style/style.80b6ac5d.css" rel="stylesheet"><link href="/static/style/style.dcac16d2.css" rel="stylesheet"></head>
+  <body>
+    <!--[if lt IE 9]>
+      <p>You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+    <div id="root" style="height:100%;background-color:#fff;overflow-x:hidden"></div>
+     <!-- <script type="text/javascript" src="/static/js/react.min.js"></script>  -->
+     <script type="text/javascript" src="/static/js/outer/react.min.js"></script>
+     <script type="text/javascript" src="/static/js/outer/react-dom.min.js"></script>
+     <script type="text/javascript" src="/static/js/react-router.min.js"></script>
+    <script type="text/javascript" src="/static/js/outer/tcefe.react.min.js"></script>
+  <script type="text/javascript" src="/static/js/manifest.490bbcd9.js"></script><script type="text/javascript" src="/static/js/vendor.2bee7388.js"></script><script type="text/javascript" src="/static/js/app.7c01ce0c.js"></script></body>
+</html>
